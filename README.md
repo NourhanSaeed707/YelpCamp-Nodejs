@@ -41,5 +41,11 @@ Yelpcamp uses a number of open source projects to work properly:
 YelpCamp requires [Node.js](https://nodejs.org/) v10+ to run.
 
 
+```sh
+$ npm install
+$ npm start
+```
+
+
 
 
